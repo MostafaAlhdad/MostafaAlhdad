@@ -33,7 +33,10 @@ have some exp in 2d/3d art using
 well i didn't rly worked in **full** or even **published** projects
 but i practised in alot of offline projects and games
 > having plans of working as a freelancer
-you can find me in [discord](dsc.bio/mg) also in [facebook](https://www.facebook.com/mostafa.alhdad.3/) :)
 
+# Accounts
+you can find me in [discord](dsc.bio/mg)
+also in [facebook](https://www.facebook.com/mostafa.alhdad.3/) :)
+my email MostafaAlhdad@protonmail.ch
 # can u fix my pc?
 **NOO**
