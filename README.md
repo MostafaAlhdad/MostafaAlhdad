@@ -37,6 +37,5 @@ but i practised in alot of offline projects and games
 # Accounts
 you can find me in [discord](dsc.bio/mg)
 also in [facebook](https://www.facebook.com/mostafa.alhdad.3/) :)
-my email MostafaAlhdad@protonmail.ch
 # can u fix my pc?
 **NOO**
