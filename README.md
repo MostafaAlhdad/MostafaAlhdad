@@ -75,4 +75,4 @@ Account | Link
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![My stats :)](https://github-readme-stats.vercel.app/api?username=MostafaAlhdad)](https://github.com/MostafaAlhdad/MostafaAlhdad)
