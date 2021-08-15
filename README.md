@@ -70,6 +70,6 @@ Account | Link
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ---
 # More About me
-[![My stats :)](https://github-readme-stats.vercel.app/api?username=MostafaAlhdad&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/MostafaAlhdad/MostafaAlhdad)
+[![My stats :)](https://github-readme-stats.vercel.app/api?username=MostafaAlhdad&count_private=true&show_icons=true&theme=dracula)](https://github.com/MostafaAlhdad/MostafaAlhdad)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaAlhdad&layout=compact&theme=tokyonight)](https://github.com/MostafaAlhdad/MostafaAlhdad)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaAlhdad&layout=compact&theme=dracula&langs_count=12)](https://github.com/MostafaAlhdad/MostafaAlhdad)
