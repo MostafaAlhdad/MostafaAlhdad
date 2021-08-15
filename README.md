@@ -3,9 +3,11 @@ YOOO
 i am mostafa a 15 yr old developer :)
 only have 3 yrs exp was animator using blender
 have some exp in 2d/3d art using
-1. aseprite
-2. adobe illustrator
-3. blender
+
+* aseprite
+* adobe illustrator
+* blender
+
 # what langauges ik?
 > well alot but not rly expert at all but at least i used this at something more than just basic stuff lol
 1. c
@@ -18,7 +20,8 @@ have some exp in 2d/3d art using
 8. html
 9. scss + css
 10. svelte (its not framework its compiler and i count it as different lang)
-11. more but cant rly remember all ;-;
+11. dart (still beginner af)
+12. more but cant rly remember all ;-;
 
 > now this is the engines, librarys, framework i am learning or using
 1. django
@@ -28,6 +31,8 @@ have some exp in 2d/3d art using
 5. nautilas
 6. unity
 7. sdl2
+8. flutter (still beginner af)
+9. and more i guess ._.
 
 # what projects i work in?
 well i didn't rly worked in **full** or even **published** projects
@@ -37,4 +42,4 @@ but i practised in alot of offline projects and games
 # Accounts
 you can find me in [discord](dsc.bio/mg)
 also in [facebook](https://www.facebook.com/mostafa.alhdad.3/) :)
-u can also send me emails MostafaIsHere@protonmail.com 
+u can also send me emails MostafaIsHere@protonmail.com
