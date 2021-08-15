@@ -75,4 +75,4 @@ Account | Link
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ---
 
-[![My stats :)](https://github-readme-stats.vercel.app/api?username=MostafaAlhdad)](https://github.com/MostafaAlhdad/MostafaAlhdad)
+[![My stats :)](https://github-readme-stats.vercel.app/api?username=MostafaAlhdad&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/MostafaAlhdad/MostafaAlhdad)
