@@ -72,4 +72,4 @@ Account | Link
 # More About me
 [![My stats :)](https://github-readme-stats.vercel.app/api?username=MostafaAlhdad&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/MostafaAlhdad/MostafaAlhdad)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaAlhdad&count_private=true&layout=compact&theme=tokyonight)](https://github.com/MostafaAlhdad/MostafaAlhdad)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaAlhdad&layout=compact&theme=tokyonight)](https://github.com/MostafaAlhdad/MostafaAlhdad)
