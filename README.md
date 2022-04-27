@@ -1,4 +1,4 @@
-[![hi msg](https://readme-typing-svg.herokuapp.com/?lines=HI+i+am+Mostafa+15+yrs+old+dev;Welcome+to+my+github+account)](https://github.com/MostafaAlhdad)
+[![hi msg](https://readme-typing-svg.herokuapp.com/?lines=HI+i+am+Mostafa;Welcome+to+my+github+account)](https://github.com/MostafaAlhdad)
 
 # my accounts
 Account | Link
