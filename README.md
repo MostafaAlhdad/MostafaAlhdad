@@ -1,4 +1,4 @@
-[![hi msg](https://readme-typing-svg.herokuapp.com/?lines=HI+i+am+Mostafa;Welcome+to+my+github+account)](https://github.com/MostafaAlhdad)
+[![hi msg](https://readme-typing-svg.herokuapp.com/?lines=HII+there!;Welcome+to+my+account)](https://github.com/MostafaAlhdad)
 
 # my accounts
 Account | Link
@@ -30,7 +30,6 @@ Account | Link
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
